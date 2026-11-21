@@ -1,22 +1,20 @@
 [
   {
-    "date": "Septiembre 2022 - Actualidad",
-    "title": "Creador de Contenido",
-    "company": "Twitch",
-    "description": "Divulgo sobre programación y desarrollo web en diferentes plataformas. Galardonado como mejor creador de contenido de habla no-inglesa en 2022 y mejor comunidad en 2023 por GitHub.",
-    "link": "https://twitch.tv/midudev",
-    "current": true
+    "date": "Febrero 2026 - Junio 2026",
+    "title": "Desarrollador Backend",
+    "company": "M&G S.A.C. Servicios Generales",
+    "description": "Desarrollo de APIs REST con NestJS, Prisma y Supabase. Implementación de autenticación JWT, gestión de productos, pedidos y ventas, y despliegue de servicios backend en Render."
   },
   {
-    "date": "Junio 2016 - Septiembre 2022",
-    "title": "Lead Frontend Architect",
-    "company": "Adevinta Spain",
-    "description": "Parte del equipo Enablers Frontend en Adevinta Spain. Nuestra misión era conseguir que todos los verticales (Fotocasa, MilAnuncios, Habitaclia, Coches.net, Infojobs) convergieran tecnológicamente, con una arquitectura moderna, flexible y optimizada, fomentando buenas prácticas y dando talleres para compartir conocimiento."
+    "date": "Febrero 2024 - Junio 2024",
+    "title": "Desarrollador Backend",
+    "company": "LA BRUJA STORE",
+    "description": "Desarrollo de una plataforma de comercio electrónico con Spring Boot y MySQL. Implementación de gestión de productos, carrito de compras y pedidos, administración de base de datos y despliegue de la aplicación mediante Docker en un VPS."
   },
   {
-    "date": "Marzo 2011 - Mayo 2016",
-    "title": "Senior Full-Stack Developer",
-    "company": "Hubii",
-    "description": "Start-up sobre localización de noticias y servicios de información. Desarrollé el website con Jade, BEM, Stylus y CoffeeScript; app de Firefox OS offline-first a 60fps; app de Smart TV con accesibilidad por mando a distancia y push notifications; y una API de Insights con NodeJS, Swagger y MongoDB para parsear contenido web con Big Data."
+    "date": "Septiembre 2023 - Diciembre 2023",
+    "title": "Desarrollador Backend",
+    "company": "Wisbac",
+    "description": "Participé en el desarrollo de un sistema de gestión para clínica y call center, enfocado en el almacenamiento de datos de seguros. Trabajé con PHP, jQuery, MySQL y JavaScript, implementando funcionalidades como exportación de reportes en PDF y Excel."
   }
 ]
