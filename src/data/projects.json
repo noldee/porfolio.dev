@@ -2,9 +2,9 @@
   {
     "title": "Sistema de Gestión de Biblioteca  Plataforma Integral (En desarrollo)",
     "description": "Plataforma web para la gestión integral de catálogos, control de préstamos y devoluciones, reservas en línea y administración de lectores. Incluye búsqueda por ISBN y recordatorios automáticos de vencimiento por correo electrónico.",
-    "link": "https://tu-demo-biblioteca.onrender.com",
-    "github": "https://github.com/tu-usuario/biblioteca-app",
-    "image": "/projects/svgl.webp",
+    "link": "https://superlibrary-orcin.vercel.app/login",
+    "github": "https://github.com/noldee/library-books",
+    "image": "/projects/library.png",
     "tags": [
       "SPRING",
       "ANGULAR",
